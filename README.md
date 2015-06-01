@@ -1,3 +1,3 @@
 # EmmanuelOchoa.github.io
 ProyectoFinal
-https://github.com/EmmanuelOchoaR/EmmanuelOchoa.github.io
+http://emmanuelochoar.github.io/pgs/articulos.html
